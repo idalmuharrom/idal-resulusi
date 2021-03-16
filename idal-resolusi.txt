@@ -4,3 +4,4 @@ Idal Resolusi
 - Membuat Website
 
 langkah langkahnya adalah
+- belajar html
